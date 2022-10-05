@@ -82,6 +82,7 @@ body {
   outline: 0;
   margin-bottom: 20px;
   padding: 1rem;
+  transition-duration: 0.5s;
 }
 
 .btn:hover {
